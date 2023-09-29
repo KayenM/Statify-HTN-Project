@@ -15,12 +15,20 @@
 <h2 align="center">Table of Contents</h2>
 
 <p align="center">
+  <a href="#video-demo">Video Demo</a> •
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
   <a href="#access-statify">Access Statify</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#getting-started">Getting Started</a> •
   <a href="#contributing">Contributing</a>
+</p>
+
+<h2 id="video-demo">🎥 Video Demo</h2>
+<p align="center">
+  <a href="https://youtu.be/E71rGWa8KBI">
+    <img src="https://img.youtube.com/vi/E71rGWa8KBI/0.jpg" alt="Demo Video">
+  </a>
 </p>
 
 <h2 id="about">About</h2>
